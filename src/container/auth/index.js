@@ -88,7 +88,7 @@ class Auth extends React.Component {
           <div style={{
               height: '95%',
               backgroundSize: 'cover',
-              backgroundImage: 'url(https://github.com/Kendralabs/Kendraflow-WebUI/blob/master/services/web-ui/src/container/auth/fintricity-background%20(1).jpeg?raw=true)',
+              backgroundImage: 'src/container/auth/fintricity-background.jpeg',
           }}>
               <Grid
                   container
